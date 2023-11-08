@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
         String PRODMOUSELOGI;
 
         ArrayAdapter<String> adaptador = new ArrayAdapter<>(this, android.R.layout.simple_spinner_item);
-        //acatualizacion de codigo
+        //Actualizacion de codigo
 
     }
     public void Registrar (View view) {
